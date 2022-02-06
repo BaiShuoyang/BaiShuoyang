@@ -60,6 +60,7 @@
   <a>
     <img alt="Tablaeu" src="https://img.shields.io/badge/-Tablaeu-red?logo=Tablaeu&logoColor=white"/>
   </a>
+  &emsp; 
   <a>
     <img alt="Scala" src="https://img.shields.io/badge/-Scala-purple?logo=scala&logoColor=white"/>
   </a>
