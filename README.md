@@ -63,7 +63,7 @@
   <a>
     <img alt="Scala" src="https://img.shields.io/badge/-Scala-purple?logo=scala&logoColor=white"/>
   </a>
-  &emsp; <span>and more... <span/>
+  &emsp; <p>and more... <p/>
 </p>
 
 
