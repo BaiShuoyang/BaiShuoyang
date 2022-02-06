@@ -1,4 +1,4 @@
-# Hello there I am Austin Bai
+# Welcome to my profile, I am Austin Bai :wave:	
 
 <p><img align="right" height='300' src="https://github.com/BaiShuoyang/BaiShuoyang/blob/main/1.1.1-img3-2.gif" /></p>
 
